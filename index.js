@@ -1,5 +1,4 @@
-var (a,b) {
-var a = 1
-var b = 2
-return (a + b)
-}
+
+var add = "1+3"
+
+return add
