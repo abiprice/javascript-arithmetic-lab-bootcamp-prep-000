@@ -1,6 +1,6 @@
-var a= 3
-var b= 4
+a = 3;
+b = 4;
 
-function var(a,b) {
-  return add ()
+function (a, b) {
+  return 'a+b' ()
 }
