@@ -1,5 +1,5 @@
-var add(a,b) {
+var (a,b) {
 var a = 1
 var b = 2
-return add
+return (a + b)
 }
